@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="paradox Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&show_icons=true&hide_border=true&theme=darkula" />
+  <img align="left" alt="paradox Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&show_icons=true&hide_border=true&theme=darcula" />
 
 </details>
 
