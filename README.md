@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and learn from them
-- 🥅 2020 Goals: Do more projects
+- 🥅 2021 Goals: Be a bit punctual and procrastinate less😅
 - ⚡ Fun fact: I love Anime and Manga
 
 
