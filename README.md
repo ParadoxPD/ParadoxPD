@@ -13,11 +13,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thegeekycoder.com" width="22px" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg" />][website]
-[<img align="left" alt="paradox | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="paradox | Twitter" width="22px" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg" />][twitter]
-[<img align="left" alt="paradox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="paradox | LinkedIn" width="22px" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg" />][linkedin]
+[<img align="left" alt="thegeekycoder.com" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/link.svg" />][website]
+[<img align="left" alt="Contact me" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/gmail.svg" />][gmail]
+[<img align="left" alt="paradox | YouTube" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/youtube.svg" />][youtube]
+[<img align="left" alt="paradox | Twitter" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="paradox | Instagram" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/instagram.svg" />][instagram]
+[<img align="left" alt="paradox | LinkedIn" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -53,6 +54,7 @@
 </details>
 
 [website]: _blank
+[gmail]: mailto:ask.priyanshu@gmail.com
 [twitter]: https://twitter.com/Priyanshudas007
 [instagram]: https://www.instagram.com/_the_geeky_coder
 [youtube]: _blank
