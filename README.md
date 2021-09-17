@@ -44,14 +44,16 @@
 <br />
 
 
----
+-
 
-<details>
-  <summary>:zap: Github Stats</summary>
+## :zap: Github Stats
 
-  <img align="left" alt="paradox Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&show_icons=true&hide_border=true&theme=darcula" />
 
-</details>
+<img align="left" alt="paradox Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ParadoxPD&theme=dracula&hide_border=true" />
+
+<img align="left" alt="paradox Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+
+
 
 [website]: _blank
 [gmail]: mailto:ask.priyanshu@gmail.com
