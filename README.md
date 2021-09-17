@@ -49,10 +49,15 @@
 ## :zap: Github Stats
 
 
-<img align="left" alt="paradox Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ParadoxPD&theme=dracula&hide_border=true" />
+<p align="center">
 
-<img align="left" alt="paradox Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+<img width="60%" align="center" alt="paradox Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ParadoxPD&theme=dracula&hide_border=true" />
+</p>
 
+---
+<p align="center">
+<img width="60%" align="center" alt="paradox Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+</p>
 
 
 [website]: _blank
