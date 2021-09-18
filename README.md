@@ -1,4 +1,4 @@
-### Hi there, I'm Priyanshu - aka [Paradox][website] 👋
+## Hi there, I'm Priyanshu - aka [Paradox][website] 👋
 
 
 ## I'm a Student, Developer, and a Tech Enthusiast!
@@ -44,7 +44,7 @@
 <br />
 
 
--
+---
 
 ## :zap: Github Stats
 
