@@ -3,10 +3,10 @@
 
 ## I'm a Student, Developer, and a Tech Enthusiast!
 
-- 🔭 I’m currently working on a Website!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently learning Cyber Security !
+- 🌱 I’m currently learning everything(Don't know what to do...Send help) 🙂
 - 👯 I’m looking to collaborate with other developers and learn from them
-- 🥅 2021 Goals: Be a bit punctual and procrastinate less😅
+- 🥅 2022 Goals: Keep learning new stuff and explore new technologies😉
 - ⚡ Fun fact: I love Anime and Manga
 
 
