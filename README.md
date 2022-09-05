@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://paradoxpd.tech)
+
 ## Hi there, I'm Priyanshu - aka [Paradox][website] 👋
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## I'm a Student, Developer, and a Tech Enthusiast!
 
@@ -8,6 +11,7 @@
 - 👯 I’m looking to collaborate with other developers and learn from them
 - 🥅 2022 Goals: Keep learning new stuff and explore new technologies😉
 - ⚡ Fun fact: I love Anime and Manga
+
 
 
 
@@ -47,10 +51,14 @@
 ---
 
 ## :zap: Github Stats
-
-
 <p align="center">
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ParadoxPD&&theme=dracula)](https://github.com/ParadoxPD)
+</p>
+
+---
+
+<p align="center">
 <img width="60%" align="center" alt="paradox Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ParadoxPD&theme=dracula&hide_border=true" />
 </p>
 
@@ -60,7 +68,7 @@
 </p>
 
 
-[website]: _blank
+[website]: paradoxpd.tech
 [gmail]: mailto:ask.priyanshu@gmail.com
 [twitter]: https://twitter.com/Priyanshudas007
 [instagram]: https://www.instagram.com/_the_geeky_coder
