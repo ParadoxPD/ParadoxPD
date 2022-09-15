@@ -186,7 +186,7 @@
 ---
 
 <p align="center">
-<img width="60%" align="center" alt="paradox Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ParadoxPD&theme=dracula&hide_border=true" />
+<img width="60%" align="center" alt="paradox Github Stats" src="https://streak-stats.demolab.com?user=ParadoxPD&theme=dracula&hide_border=true&border_radius=4.6&fire=1E07DD&ring=DD074E" />
 </p>
 
 ---
