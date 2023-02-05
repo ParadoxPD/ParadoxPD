@@ -179,7 +179,7 @@
 
 <p align="center">
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ParadoxPD&&theme=dracula)](https://github.com/ParadoxPD)
+[![GitHub activity graph](https://thoughtful-spacesuit-bear.cyclic.app/graph?username=ParadoxPD&&theme=dracula)](https://github.com/ParadoxPD)
 
 </p>
 
