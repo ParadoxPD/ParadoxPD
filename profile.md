@@ -46,8 +46,8 @@
 
 
 
-[website]: paradoxpd.tech
-[blog]: blog.paradoxpd.tech
+[website]:  https://paradoxpd.tech
+[blog]:  https://blog.paradoxpd.tech
 [gmail]: mailto:ask.priyanshu@gmail.com
 [twitter]: https://twitter.com/Priyanshudas007
 [instagram]: https://www.instagram.com/_the_geeky_coder

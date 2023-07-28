@@ -6,7 +6,7 @@ As you all know this place is "recommended" for `profile` and kinda a portfolio 
 
 ---
 
-### If you still want to check out my `github profile`, just click here : [**Profile**]("https://github.com/ParadoxPD/ParadoxPD/blob/master/profile.md")
+### If you still want to check out my `github profile`, just click here : [**Profile**](https://github.com/ParadoxPD/ParadoxPD/blob/master/profile.md)
 
 ---
 
