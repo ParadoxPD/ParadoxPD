@@ -2,7 +2,7 @@
 
 ---
 
-As you all know this place is "recommended" for `profile` and kinda a portfolio of sort. I thought about utilizing this space to show the cool stuff I am currently working on. I also thought of using this as kind of a scratch pad for ideas and a todo list...
+As you all know this place is "recommended" for `profile` and kinda a portfolio of sorts. I thought about utilizing this space to show the cool stuff I am currently working on. I also thought of using this as kind of a scratch pad for ideas and a to-do list...
 
 ---
 
@@ -12,9 +12,9 @@ As you all know this place is "recommended" for `profile` and kinda a portfolio 
 
 ToDo :
 
-- [ ] write more blogs
-- [ ] complete the work on bad usb
-- [ ] Read for CCNA
+- [ ] Write more blogs
+- [ ] Complete the work on Bad USB
+- [ ] Study for CCNA
 - [ ] Learn to do WiFi PenTesting
 
 ---
