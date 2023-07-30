@@ -2,7 +2,7 @@
 
 ---
 
-As you all know this place is "recommended" for `profile` and kinda a portfolio of sorts. I thought about utilizing this space to show the cool stuff I am currently working on. I also thought of using this as kind of a scratch pad for ideas and a to-do list...
+This place was supposed to be for my `profile`.But I thought about utilizing this area to show the cool stuff I am currently working on. I also thought of using this as kind of a scratch pad for ideas and a to-do list...
 
 ---
 
