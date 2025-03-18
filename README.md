@@ -1,15 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://paradoxpd.tech)
-
 ## Hi there, I'm Priyanshu - aka [Paradox][website] 👋
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-## I'm a Student, Developer, and a Tech Enthusiast!
+## I'm a Developer, and a Tech Enthusiast!
 
 - 🔭 I’m currently learning HarDwAre HAcKinG !
 - 🌱 I’m currently trying everything(Don't know what to do...Send help) 🙂
 - 👯 I’m looking to collaborate with other developers and learn from them
-- 🥅 2023 Goals: Keep learning new stuff and explore new technologies😉
+- 🥅 2025 Goals: Learning Linux
 - ⚡ Fun fact: I love Anime and Manga
 
 ### Connect with me:
@@ -30,12 +28,6 @@
 
 ## :zap: Github Stats
 
-<p align="center">
-
-[![GitHub activity graph](https://thoughtful-spacesuit-bear.cyclic.app/graph?username=ParadoxPD&&theme=dracula)](https://github.com/ParadoxPD)
-
-</p>
-
 ---
 
 <p align="center">
@@ -47,9 +39,9 @@
 
 
 [website]: https://github.com/ParadoxPD
-[blog]:  https://github-blog-generator.vercel.app/
+[blog]:  https://dev.to/paradoxpd
 [gmail]: mailto:ask.priyanshu@gmail.com
 [twitter]: https://twitter.com/Priyanshudas007
 [instagram]: https://www.instagram.com/paradox.pd.tech?igsh=NG9xOGthZ2VocjVo
-[youtube]: _blank
+[youtube]: https://youtube.com/@paradoxpdtech?si=xKjQS06ypa0mVyH3
 [linkedin]: https://www.linkedin.com/in/priyanshu-das-8b7282214/
