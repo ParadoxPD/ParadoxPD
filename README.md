@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thegeekycoder.com" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/link.svg" />][website]
+[<img align="left" alt="Paradox | website" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/link.svg" />][website]
 [<img align="left" alt="Contact me" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/gmail.svg" />][gmail]
 [<img align="left" alt="paradox | YouTube" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/youtube.svg" />][youtube]
 [<img align="left" alt="paradox | Twitter" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/twitter.svg" />][twitter]
@@ -30,9 +30,13 @@
 
 ---
 
-<p align="center">
-<img width="60%" align="center" alt="paradox Github Stats" src="https://streak-stats.demolab.com?user=ParadoxPD&theme=dracula&hide_border=true&border_radius=4.6&fire=1E07DD&ring=DD074E" />
-</p>
+<div align="center">
+  <img alt="Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <br/>
+  <img alt="Stats" width="50%" src="https://github-readme-streak-stats-psi-gules.vercel.app/?user=ParadoxPD&theme=tokyonight&hide_border=false"/>
+  <br/>
+  <img alt="Stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxPD&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+</div>
 
 ---
 
