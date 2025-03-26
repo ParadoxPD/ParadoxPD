@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-## I'm a Developer, and a Tech Enthusiast!
+### I'm a Developer, and a Tech Enthusiast!
 
 - 🔭 I’m currently learning HarDwAre HAcKinG !
 - 🌱 I’m currently trying everything(Don't know what to do...Send help) 🙂
@@ -20,6 +20,8 @@
 [<img align="left" alt="paradox | LinkedIn" width="22px" src="https://raw.githubusercontent.com/ParadoxPD/ParadoxPD/master/assets/linkedin.svg" />][linkedin]
 
 <br />
+<br />
+<br />
 
 ---
 ### Check out my blog : [@**Blog**][blog]
@@ -28,7 +30,6 @@
 
 ## :zap: Github Stats
 
----
 
 <div align="center">
   <img alt="Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
