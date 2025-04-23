@@ -46,7 +46,7 @@
 [website]: https://github.com/ParadoxPD
 [blog]:  https://dev.to/paradoxpd
 [gmail]: mailto:ask.priyanshu@gmail.com
-[twitter]: https://twitter.com/Priyanshudas007
+[twitter]: https://x.com/paradoxthenerd
 [instagram]: https://www.instagram.com/paradox.pd.tech?igsh=NG9xOGthZ2VocjVo
 [youtube]: https://youtube.com/@paradoxpdtech?si=xKjQS06ypa0mVyH3
 [linkedin]: https://www.linkedin.com/in/priyanshu-das-8b7282214/
