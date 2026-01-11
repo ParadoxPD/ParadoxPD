@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning HarDwAre HAcKinG !
 - 🌱 I’m currently trying everything(Don't know what to do...Send help) 🙂
 - 👯 I’m looking to collaborate with other developers and learn from them
-- 🥅 2025 Goals: Learning Linux
+- 🥅 2026 Goals: Learn Rust, Zig and PCB Designing
 - ⚡ Fun fact: I love Anime and Manga
 
 ### Connect with me:
