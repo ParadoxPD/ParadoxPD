@@ -32,11 +32,7 @@
 
 
 <div align="center">
-  <img alt="Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ParadoxPD&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <br/>
   <img alt="Stats" width="50%" src="https://github-readme-streak-stats-psi-gules.vercel.app/?user=ParadoxPD&theme=tokyonight&hide_border=false"/>
-  <br/>
-  <img alt="Stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxPD&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ---
